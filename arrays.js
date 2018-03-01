@@ -12,3 +12,7 @@ function destructivelyAddElementToBeginningOfArray(chocolateBars, newCandy){
 function addElementToEndOfArray(){
   
 }
+
+function destructivelyAddElementToEndOfArray(){
+  
+}

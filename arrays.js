@@ -9,10 +9,10 @@ function destructivelyAddElementToBeginningOfArray(chocolateBars, newCandy){
   return chocolateBars
 }
 
-function addElementToEndOfArray(){
+function addElementToEndOfArray(chocolateBars, newCandy){
   
 }
 
-function destructivelyAddElementToEndOfArray(){
+function destructivelyAddElementToEndOfArray(chocolateBars, newCandy){
   
 }
